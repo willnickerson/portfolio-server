@@ -1,0 +1,27 @@
+{
+  "name": "portfolio-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "eslint .",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willnickerson/portfolio-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willnickerson/portfolio-server/issues"
+  },
+  "homepage": "https://github.com/willnickerson/portfolio-server#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
